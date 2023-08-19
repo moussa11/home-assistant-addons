@@ -1,0 +1,3 @@
+[submodule "dalybms"]
+	path = dalybms
+	url = https://github.com/moussa11/dalybms
